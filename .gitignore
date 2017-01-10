@@ -1,0 +1,4 @@
+*.lock
+spec/fixture/modules
+spec/fixture/manifests
+.bundle

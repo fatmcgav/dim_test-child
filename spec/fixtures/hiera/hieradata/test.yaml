@@ -1,0 +1,4 @@
+---
+# Test hiera data
+
+value: 'hiera value'
